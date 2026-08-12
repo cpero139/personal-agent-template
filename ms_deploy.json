@@ -1,0 +1,10 @@
+{
+  "service": {
+    "port": 3000,
+    "runtime": "docker",
+    "resources": {
+      "cpu": 2,
+      "memory": 8192
+    }
+  }
+}
